@@ -1,4 +1,12 @@
 function matrixClockwise(n)
+    % 一個 n*n 矩陣, 數字由 1 從最中間順時鐘往外依序寫下
+    % Input: n, a integer
+    % Output: B, a matrix (n*n) 
+    % 
+    % example: 
+    % >> n=5;
+    % >> matrixClockwise(n)
+    %
     value=2;
     A=[];
     B=[];
