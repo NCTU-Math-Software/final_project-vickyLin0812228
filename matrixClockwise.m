@@ -1,6 +1,6 @@
 function matrixClockwise(n)
     % 一個 n*n 矩陣, 數字由 1 從最中間順時鐘往外依序寫下
-    % Input: n, a integer
+    % Input: n, an integer, 矩陣大小
     % Output: B, a matrix (n*n) 
     % 
     % example: 
