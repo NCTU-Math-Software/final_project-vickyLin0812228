@@ -14,9 +14,9 @@ Project 17
 -------------------------------------------------------------------------------------------------------
 A. matrixClockwise(n)
 	→ 產生上述 n×n 的矩陣
+	
     	Input: n, an integer, 矩陣大小
     	Output: B, a matrix (n×n) 
-    	
     	example: 
     	>> n=5;
     	>> matrixClockwise(n)
@@ -43,9 +43,9 @@ A. matrixClockwise(n)
 -------------------------------------------------------------------------------------------------------
 B. matrixSum(n)
 	→ 給定 n×n 的此種矩陣, 求其對角線 (a_i,i) 及反對角線 (a_n−i,i) 之總和
+	
     	Input: n, an integer, 矩陣大小
     	Output: sum, an integer, 其對角線 (a_i,i) 及反對角線 (a_n−i,i) 之總和
-    	
     	example: 
     	>> n=5;
     	>> matrixSum(n)
