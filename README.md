@@ -1,7 +1,4 @@
-# final_project-vickyLin0812228
-final_project-vickyLin0812228 created by GitHub Classroom
-
-Project 17
+# Project: 數字由 1 從最中間順時鐘往外依序寫下
 
 以下是一個 5×5 矩陣, 數字由 1 從最中間順時鐘往外依序寫下:
 
